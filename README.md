@@ -1,1 +1,1 @@
-"HTML, CSS & Git Basics" task
+https://PavelUstyukov.github.io/rsschool-cv/
