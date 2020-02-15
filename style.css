@@ -3,6 +3,7 @@ body {
  font-family: "Arial"sans-serif;
  width: 1024px;
  margin: auto;
+ color: white;
 }
 
 .title {
@@ -11,18 +12,45 @@ body {
  margin: 0;
 }
 
+p {
+ text-align: center;
+ margin: 0 20px;
+ padding-bottom: 20px;
+}
+
+h1 {
+ background-color: black;
+}
+
 .presentation {
  display: flex;
  justify-content: space-around;
- background-color: #ae9c84;
+ background-color: #344863;
+}
+
+.contacts {
+ margin: auto;
 }
 
 img {
  height: 100%;
-
+ width: 500px;
+ margin-right: 20px;
 }
 
 main {
  background-color: #cbc5b5;
  padding-bottom: 30px;
+ background-color: #20242f;
+}
+
+footer {
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+
+.contacts_footer {
+ display: flex;
+ justify-content: space-around;
 }
