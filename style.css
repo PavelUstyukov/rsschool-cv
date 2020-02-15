@@ -1,15 +1,28 @@
 body {
  font-size: 20px;
+ font-family: "Arial"sans-serif;
  width: 1024px;
  margin: auto;
 }
 
 .title {
  text-align: center;
+ padding: 20px;
+ margin: 0;
 }
 
 .presentation {
  display: flex;
  justify-content: space-around;
- background-color: tan;
+ background-color: #ae9c84;
+}
+
+img {
+ height: 100%;
+
+}
+
+main {
+ background-color: #cbc5b5;
+ padding-bottom: 30px;
 }
