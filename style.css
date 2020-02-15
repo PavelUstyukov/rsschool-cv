@@ -1,0 +1,15 @@
+body {
+ font-size: 20px;
+ width: 1024px;
+ margin: auto;
+}
+
+.title {
+ text-align: center;
+}
+
+.presentation {
+ display: flex;
+ justify-content: space-around;
+ background-color: tan;
+}
